@@ -1,0 +1,31 @@
+_repo: Sunny-Boy-and-His-Playmates_17902
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hastings, Howard L. (Howard Livingston)
+    alias: Hastings, H. L. (Howard Livingston)
+    birthdate: 1887
+    gutenberg_agent_id: '7682'
+    url: http://www.gutenberg.org/2009/agents/7682
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: White, Ramy Allison
+    gutenberg_agent_id: '7681'
+    url: http://www.gutenberg.org/2009/agents/7681
+description: ''
+gutenberg_issued: '2006-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17902'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcc 'PZ'
+title: Sunny Boy and His Playmates
+url: http://www.gutenberg.org/ebooks/17902
